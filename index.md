@@ -66,5 +66,5 @@ CRISP leads to 100% valid SQL queries generated and increases in both the execut
 |             | Execution Accuracy | Logical Accuracy | Valid SQL |
 | ----------- | ------------------ | ---------------- | --------- |
 | SQLNova     | 85.1%              | 79.1%            | 99.3%     |
-| Exact CRISP | 85.8%              | 80.0%            | 100%      |
+| Exact CRISP | **85.8%**          | **80.0%**        | **100%**  |
 
